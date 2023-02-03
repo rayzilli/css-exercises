@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 html, body {
@@ -9,7 +10,7 @@ body {
   margin: 0;
   background: #aaa;
   color: #333;
-  /* I'll give you this one for free lol */
+  /* I'll give you this one for free */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -20,34 +21,6 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  padding: 20px;
-}
-
-.box1{
-  display: flex;
-  font-size: 20px;
-  align-items: center;
-  justify-content: center;
-}
-
-.header{
-  font-weight: 600;
-  margin-left: 8px 
-}
-
-.box2{
-  display: flex; 
-  margin-left: 50px; 
-
-}
-
-.box3{
-  margin-left: 50px; 
-  margin-top: 20px; 
-}
-
-.text{
-  flex: 1; 
 }
 
 .icon {
@@ -74,7 +47,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left:  auto; 
 }
 
 button {
